@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 96">
+  <text x="8" y="58" font-family="Arial Black, Arial, sans-serif" font-size="46" font-weight="800" fill="#E10600" letter-spacing="1">QANTAS</text>
+  <path d="M12 72c70 16 150 10 250-16" fill="none" stroke="#E10600" stroke-width="5" stroke-linecap="round"/>
+</svg>
